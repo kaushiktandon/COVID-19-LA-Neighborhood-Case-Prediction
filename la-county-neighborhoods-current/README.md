@@ -3,11 +3,11 @@ The current version of L.A. County neighborhoods as defined by the Los Angeles T
 ### Shapefiles
 The [shapefile](https://en.wikipedia.org/wiki/Shapefile) format stores the data as primitive geometric shapes like points, lines, and polygons. These shapes, together with data attributes that are linked to each shape, create the representation of the geographic data. The shapefile format consists of a collection of files with a common filename prefix, stored in the same directory.
 #### Mandatory files
-.shp — shape format; the feature geometry itself {content-type: x-gis/x-shapefile}
+.shp — the file that contains the geometry for all features
 
-.shx — shape index format; a positional index of the feature geometry to allow seeking forwards and backwards quickly {content-type: x-gis/x-shapefile}
+.shx —  the file that indexes the geometry
 
-.dbf — attribute format; columnar attributes for each shape, in dBase IV format {content-type: application/octet-stream OR text/plain}
+.dbf — the file that stores feature attributes in a tabular format
 
 #### Other files
-.prj — projection description, using a well-known text representation of coordinate reference systems {content-type: text/plain OR application/text}
+.prj — the file that contains information on projection format including the coordinate system and projection information. It is a plain text file describing the projection using well-known text (WKT) format
