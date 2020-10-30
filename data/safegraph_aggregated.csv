@@ -1,0 +1,744 @@
+name,Number of incoming visits,Number of outgoing visits,month
+Agoura Hills,21,0,3
+Arleta,396,16407,3
+Arlington Heights,80,0,3
+Atwater Village,18134,2116,3
+Baldwin Hills/Crenshaw,316,0,3
+Beverly Crest,984,0,3
+Beverly Grove,13311,1120,3
+Beverly Hills,46,0,3
+Beverlywood,14,0,3
+Boyle Heights,1212,0,3
+Brentwood,592,0,3
+Burbank,327,0,3
+Calabasas,6,0,3
+Canoga Park,88042,39590,3
+Central-Alameda,125,0,3
+Chatsworth,56941,41736,3
+Chatsworth Reservoir,336,1830,3
+Chinatown,374,1029,3
+Cypress Park,7181,2573,3
+Downtown,1619,0,3
+Eagle Rock,29853,9231,3
+East Hollywood,74504,22820,3
+East Los Angeles,26,0,3
+Echo Park,15458,5300,3
+El Sereno,99,0,3
+Elysian Valley,1834,3148,3
+Encino,9468,37825,3
+Fairfax,10386,757,3
+Glassell Park,15224,6601,3
+Glendale,266,0,3
+Granada Hills,65067,51659,3
+Griffith Park,22,0,3
+Hancock Park,1619,531,3
+Harvard Heights,180,0,3
+Highland Park,23151,13145,3
+Historic South-Central,137,0,3
+Hollywood Hills,11020,6064,3
+Hollywood Hills West,7053,2876,3
+Hollywood,99081,27658,3
+Huntington Park,16,0,3
+Hyde Park,1769,0,3
+Inglewood,112,0,3
+Koreatown,3730,0,3
+Lake Balboa,19707,17732,3
+Lake View Terrace,6809,7437,3
+Larchmont,5119,2024,3
+Lincoln Heights,18352,6367,3
+Lopez/Kagel Canyons,27,2323,3
+Los Feliz,74069,7590,3
+Mar Vista,70,0,3
+Maywood,108,0,3
+Mid-City,336,0,3
+Mid-Wilshire,194,0,3
+Mission Hills,28312,12065,3
+Montebello,26,0,3
+Montecito Heights,1868,3529,3
+Mount Washington,6979,3254,3
+North Hills,41776,43711,3
+North Hollywood,72905,41938,3
+Northridge,129329,53414,3
+Pacific Palisades,50,0,3
+Pacoima,56139,41286,3
+Panorama City,63068,50875,3
+Pasadena,30,0,3
+Pico-Union,660,0,3
+Porter Ranch,23238,25738,3
+Rancho Palos Verdes,872,0,3
+Reseda,46363,52692,3
+San Fernando,1072,1763,3
+San Pedro,517,0,3
+Santa Clarita,4,0,3
+Sepulveda Basin,518,0,3
+Shadow Hills,7296,4769,3
+Sherman Oaks,65878,34647,3
+Silver Lake,14808,5072,3
+South Pasadena,50,0,3
+Studio City,47796,21280,3
+Sunland,9337,6659,3
+Sun Valley,58738,40046,3
+Sylmar,45025,45250,3
+Tarzana,47723,38048,3
+Toluca Lake,8072,2909,3
+Torrance,155,0,3
+Tujunga Canyons,22514,0,3
+Tujunga,15665,10704,3
+Unincorporated Santa Susana Mountains,47,0,3
+Universal City,1097,0,3
+University Park,43,0,3
+Valley Glen,51230,43133,3
+Valley Village,14546,10345,3
+Van Nuys,127179,73273,3
+Venice,67,0,3
+Vermont Knolls,580,0,3
+Vermont-Slauson,365,0,3
+Vermont Square,90,0,3
+View Park-Windsor Hills,4,0,3
+West Adams,219,0,3
+Westchester,180,0,3
+West Hills,61657,44025,3
+West Hollywood,287,0,3
+Westlake,1565,654,3
+Wilmington,86,0,3
+Winnetka,27951,47245,3
+Woodland Hills,105228,50603,3
+Agoura Hills,37,0,4
+Arleta,264,9603,4
+Arlington Heights,47,0,4
+Atwater Village,10052,1158,4
+Baldwin Hills/Crenshaw,189,0,4
+Beverly Crest,57,0,4
+Beverly Grove,2911,476,4
+Beverly Hills,34,0,4
+Beverlywood,10,0,4
+Boyle Heights,823,0,4
+Brentwood,85,0,4
+Burbank,136,0,4
+Calabasas,3,0,4
+Canoga Park,46940,22136,4
+Central-Alameda,113,0,4
+Chatsworth,30703,20441,4
+Chatsworth Reservoir,289,844,4
+Chinatown,281,662,4
+Cypress Park,4328,1540,4
+Downtown,950,0,4
+Eagle Rock,15245,4746,4
+East Hollywood,33565,12535,4
+East Los Angeles,11,0,4
+Echo Park,7515,2499,4
+El Sereno,73,0,4
+Elysian Valley,886,1641,4
+Encino,22754,17206,4
+Fairfax,2596,340,4
+Glassell Park,8834,4003,4
+Glendale,72,0,4
+Granada Hills,32941,27594,4
+Griffith Park,6,0,4
+Hancock Park,621,237,4
+Harvard Heights,99,0,4
+Highland Park,13720,7516,4
+Historic South-Central,95,0,4
+Hollywood Hills,4747,2508,4
+Hollywood Hills West,2929,1098,4
+Hollywood,35485,14581,4
+Huntington Park,4,0,4
+Hyde Park,643,0,4
+Inglewood,61,0,4
+Koreatown,2127,0,4
+Lake Balboa,11321,9632,4
+Lake View Terrace,4111,4511,4
+Larchmont,1933,1135,4
+Lincoln Heights,10405,4145,4
+Lopez/Kagel Canyons,8,1386,4
+Los Feliz,33540,3504,4
+Mar Vista,42,0,4
+Maywood,13,0,4
+Mid-City,182,0,4
+Mid-Wilshire,87,0,4
+Mission Hills,16183,7063,4
+Montebello,12,0,4
+Montecito Heights,1053,2187,4
+Mount Washington,4187,1629,4
+North Hills,26914,24744,4
+North Hollywood,46231,25483,4
+Northridge,58937,26948,4
+Pacific Palisades,39,0,4
+Pacoima,38857,25870,4
+Panorama City,37674,29661,4
+Pasadena,16,0,4
+Pico-Union,372,0,4
+Porter Ranch,12029,11822,4
+Rancho Palos Verdes,538,0,4
+Reseda,26407,29467,4
+San Fernando,688,895,4
+San Pedro,264,0,4
+Santa Clarita,2,0,4
+Sepulveda Basin,206,0,4
+Shadow Hills,4692,2386,4
+Sherman Oaks,27307,16429,4
+Silver Lake,7322,2698,4
+South Pasadena,19,0,4
+Studio City,18819,9054,4
+Sunland,6143,4166,4
+Sun Valley,37330,25279,4
+Sylmar,28442,27308,4
+Tarzana,23532,19075,4
+Toluca Lake,3561,1213,4
+Torrance,45,0,4
+Tujunga Canyons,4592,0,4
+Tujunga,10666,7100,4
+Unincorporated Santa Susana Mountains,20,0,4
+Universal City,53,0,4
+University Park,22,0,4
+Valley Glen,29373,23603,4
+Valley Village,7461,5472,4
+Van Nuys,74711,41690,4
+Venice,55,0,4
+Vermont Knolls,288,0,4
+Vermont-Slauson,223,0,4
+Vermont Square,39,0,4
+View Park-Windsor Hills,1,0,4
+West Adams,89,0,4
+Westchester,117,0,4
+West Hills,33069,22589,4
+West Hollywood,97,0,4
+Westlake,873,349,4
+Wilmington,41,0,4
+Winnetka,16220,26369,4
+Woodland Hills,48718,25229,4
+Agoura Hills,34,0,5
+Arleta,334,11736,5
+Arlington Heights,54,0,5
+Atwater Village,12005,1361,5
+Baldwin Hills/Crenshaw,220,0,5
+Beverly Crest,115,0,5
+Beverly Grove,3967,721,5
+Beverly Hills,44,0,5
+Beverlywood,7,0,5
+Boyle Heights,1181,0,5
+Brentwood,183,0,5
+Burbank,180,0,5
+Calabasas,2,0,5
+Canoga Park,51744,25518,5
+Central-Alameda,207,0,5
+Chatsworth,38226,26292,5
+Chatsworth Reservoir,365,1106,5
+Chinatown,330,715,5
+Cypress Park,4964,1724,5
+Downtown,921,0,5
+Eagle Rock,18446,5776,5
+East Hollywood,39416,13367,5
+East Los Angeles,10,0,5
+Echo Park,8747,2705,5
+El Sereno,84,0,5
+Elysian Valley,994,1940,5
+Encino,16538,22732,5
+Fairfax,3636,370,5
+Glassell Park,10303,4670,5
+Glendale,45,0,5
+Granada Hills,43330,35418,5
+Griffith Park,2,0,5
+Hancock Park,897,364,5
+Harvard Heights,130,0,5
+Highland Park,16071,8842,5
+Historic South-Central,102,0,5
+Hollywood Hills,6002,3366,5
+Hollywood Hills West,3601,1343,5
+Hollywood,43751,15460,5
+Huntington Park,7,0,5
+Hyde Park,879,0,5
+Inglewood,53,0,5
+Koreatown,2434,0,5
+Lake Balboa,13845,11799,5
+Lake View Terrace,4909,5885,5
+Larchmont,2496,1430,5
+Leimert Park,19,0,5
+Lincoln Heights,12615,4199,5
+Lopez/Kagel Canyons,10,1460,5
+Los Feliz,39396,4004,5
+Manchester Square,11,0,5
+Mar Vista,62,0,5
+Maywood,14,0,5
+Mid-City,223,0,5
+Mid-Wilshire,129,0,5
+Mission Hills,20806,8069,5
+Montebello,21,0,5
+Montecito Heights,1379,2334,5
+Mount Washington,4542,1859,5
+North Hills,32568,30276,5
+North Hollywood,53809,27799,5
+Northridge,77807,32964,5
+Pacific Palisades,39,0,5
+Pacoima,45846,30396,5
+Panorama City,41612,33534,5
+Pasadena,19,0,5
+Pico-Union,422,0,5
+Porter Ranch,15853,15111,5
+Rancho Palos Verdes,738,0,5
+Reseda,32120,35842,5
+San Fernando,939,1091,5
+San Pedro,332,0,5
+Santa Clarita,2,0,5
+Sepulveda Basin,344,0,5
+Shadow Hills,5525,3007,5
+Sherman Oaks,37113,20082,5
+Silver Lake,8677,2845,5
+South Pasadena,23,0,5
+Studio City,24744,11634,5
+Sunland,7703,5009,5
+Sun Valley,43996,30402,5
+Sylmar,34010,31672,5
+Tarzana,30862,24078,5
+Toluca Lake,4594,1504,5
+Torrance,127,0,5
+Tujunga Canyons,6338,0,5
+Tujunga,12823,8276,5
+Unincorporated Santa Susana Mountains,25,0,5
+Universal City,84,0,5
+University Park,18,0,5
+Valley Glen,36157,28509,5
+Valley Village,9155,6735,5
+Van Nuys,90543,48659,5
+Venice,55,0,5
+Vermont Knolls,389,0,5
+Vermont-Slauson,296,0,5
+Vermont Square,54,0,5
+View Park-Windsor Hills,2,0,5
+West Adams,133,0,5
+Westchester,115,0,5
+West Hills,43400,28598,5
+West Hollywood,149,0,5
+Westlake,1087,395,5
+Wilmington,47,0,5
+Winnetka,19788,31549,5
+Woodland Hills,64213,31320,5
+Agoura Hills,35,0,6
+Arleta,565,13681,6
+Arlington Heights,54,0,6
+Atwater Village,14544,1494,6
+Baldwin Hills/Crenshaw,288,0,6
+Beverly Crest,134,0,6
+Beverly Grove,6264,712,6
+Beverly Hills,29,0,6
+Beverlywood,13,0,6
+Boyle Heights,1173,0,6
+Brentwood,145,0,6
+Burbank,240,0,6
+Calabasas,5,0,6
+Canoga Park,73359,30575,6
+Central-Alameda,160,0,6
+Chatsworth,46044,32816,6
+Chatsworth Reservoir,413,1567,6
+Chinatown,412,669,6
+Cypress Park,5625,1997,6
+Downtown,1085,0,6
+Eagle Rock,21924,5792,6
+East Hollywood,44670,14504,6
+East Los Angeles,12,0,6
+Echo Park,9736,3202,6
+El Sereno,98,0,6
+Elysian Valley,1158,2423,6
+Encino,39908,30056,6
+Fairfax,5609,443,6
+Glassell Park,11370,4913,6
+Glendale,171,0,6
+Gramercy Park,22,0,6
+Granada Hills,53250,41921,6
+Griffith Park,2,0,6
+Hancock Park,1041,545,6
+Harvard Heights,130,0,6
+Highland Park,17618,9722,6
+Historic South-Central,116,0,6
+Hollywood Hills,6608,3530,6
+Hollywood Hills West,5071,1672,6
+Hollywood,57247,15926,6
+Huntington Park,11,0,6
+Hyde Park,1127,0,6
+Inglewood,64,0,6
+Koreatown,3001,0,6
+Lake Balboa,15122,13285,6
+Lake View Terrace,5249,6392,6
+Larchmont,2983,1357,6
+Leimert Park,93,0,6
+Lincoln Heights,13340,4270,6
+Lopez/Kagel Canyons,11,1788,6
+Los Feliz,43882,4452,6
+Manchester Square,111,0,6
+Mar Vista,118,0,6
+Maywood,18,0,6
+Mid-City,317,0,6
+Mid-Wilshire,120,0,6
+Mission Hills,24043,10030,6
+Montebello,54,0,6
+Montecito Heights,1505,2468,6
+Mount Washington,5516,2099,6
+North Hills,35643,35135,6
+North Hollywood,58228,30176,6
+Northridge,106628,42670,6
+Pacific Palisades,45,0,6
+Pacoima,48728,32437,6
+Panorama City,51544,37079,6
+Pasadena,29,0,6
+Pico-Union,562,0,6
+Porter Ranch,26512,21250,6
+Rancho Palos Verdes,785,0,6
+Reseda,36663,43385,6
+San Fernando,978,1406,6
+San Pedro,405,0,6
+Santa Clarita,2,0,6
+Sepulveda Basin,453,0,6
+Shadow Hills,5847,3680,6
+Sherman Oaks,52397,26150,6
+Silver Lake,10448,3404,6
+South Pasadena,33,0,6
+Studio City,35111,14609,6
+Sunland,8185,5573,6
+Sun Valley,49374,33543,6
+Sylmar,39540,37264,6
+Tarzana,41687,31271,6
+Toluca Lake,5919,1970,6
+Torrance,136,0,6
+Tujunga Canyons,8943,0,6
+Tujunga,14184,8974,6
+Unincorporated Santa Susana Mountains,26,0,6
+Universal City,211,0,6
+University Park,14,0,6
+Valley Glen,39540,33067,6
+Valley Village,10967,7848,6
+Van Nuys,103100,55659,6
+Venice,59,0,6
+Vermont Knolls,469,0,6
+Vermont-Slauson,245,0,6
+Vermont Square,93,0,6
+View Park-Windsor Hills,2,0,6
+West Adams,192,0,6
+Westchester,17,0,6
+West Hills,57421,36539,6
+West Hollywood,522,0,6
+Westlake,1091,514,6
+Wilmington,98,0,6
+Winnetka,25428,38267,6
+Woodland Hills,80571,40228,6
+Agoura Hills,173,0,7
+Arleta,442,12911,7
+Arlington Heights,56,0,7
+Atwater Village,14379,1547,7
+Baldwin Hills/Crenshaw,276,0,7
+Beverly Crest,124,0,7
+Beverly Grove,6988,774,7
+Beverly Hills,30,0,7
+Beverlywood,38,0,7
+Boyle Heights,1290,0,7
+Brentwood,132,0,7
+Burbank,258,0,7
+Calabasas,2,0,7
+Canoga Park,64824,28108,7
+Central-Alameda,171,0,7
+Chatsworth,44781,32807,7
+Chatsworth Reservoir,418,1552,7
+Chinatown,398,792,7
+Cypress Park,5710,2164,7
+Downtown,1076,0,7
+Eagle Rock,20858,5371,7
+East Hollywood,39083,14355,7
+East Los Angeles,22,0,7
+Echo Park,10272,2889,7
+El Sereno,83,0,7
+Elysian Park,400,0,7
+Elysian Valley,1141,2287,7
+Encino,1731,28037,7
+Fairfax,7101,414,7
+Glassell Park,11205,4562,7
+Glendale,220,0,7
+Granada Hills,50187,40584,7
+Griffith Park,31,0,7
+Hancock Park,935,347,7
+Hansen Dam,19,0,7
+Harvard Heights,150,0,7
+Highland Park,17012,8986,7
+Historic South-Central,109,0,7
+Hollywood Hills,7313,3611,7
+Hollywood Hills West,4661,1758,7
+Hollywood,59223,16544,7
+Huntington Park,6,0,7
+Hyde Park,1115,0,7
+Inglewood,57,0,7
+Koreatown,2672,0,7
+Lake Balboa,14775,12952,7
+Lake View Terrace,5090,6133,7
+Larchmont,3059,1312,7
+Leimert Park,70,0,7
+Lincoln Heights,13319,4080,7
+Lopez/Kagel Canyons,25,1698,7
+Los Feliz,31650,4140,7
+Manchester Square,127,0,7
+Mar Vista,50,0,7
+Maywood,27,0,7
+Mid-City,241,0,7
+Mid-Wilshire,157,0,7
+Mission Hills,24055,9575,7
+Montebello,44,0,7
+Montecito Heights,1547,2408,7
+Mount Washington,5508,1914,7
+North Hills,34202,33466,7
+North Hollywood,72419,30468,7
+Northridge,99944,39034,7
+Pacific Palisades,33,0,7
+Pacoima,48261,31916,7
+Panorama City,49911,37172,7
+Pasadena,40,0,7
+Pico-Union,525,0,7
+Porter Ranch,25004,20474,7
+Rancho Palos Verdes,835,0,7
+Reseda,34393,41888,7
+San Fernando,734,1317,7
+San Pedro,422,0,7
+Santa Clarita,2,0,7
+Sepulveda Basin,503,0,7
+Shadow Hills,5585,3680,7
+Sherman Oaks,53313,25804,7
+Silver Lake,10293,2892,7
+South Pasadena,23,0,7
+Studio City,35370,13968,7
+Sunland,7878,5288,7
+Sun Valley,50601,32390,7
+Sylmar,55757,37788,7
+Tarzana,41133,29788,7
+Toluca Lake,5704,2158,7
+Tujunga Canyons,12515,0,7
+Tujunga,13775,9330,7
+Unincorporated Santa Susana Mountains,24,0,7
+Universal City,190,0,7
+University Park,21,0,7
+Valley Glen,40726,33861,7
+Valley Village,9614,8067,7
+Van Nuys,117546,52971,7
+Venice,148,0,7
+Vermont Knolls,321,0,7
+Vermont-Slauson,261,0,7
+Vermont Square,93,0,7
+View Park-Windsor Hills,96,0,7
+West Adams,130,0,7
+Westchester,210,0,7
+West Hills,53939,33731,7
+West Hollywood,537,0,7
+Westlake,1315,477,7
+Wilmington,69,0,7
+Winnetka,23987,35208,7
+Woodland Hills,79333,37597,7
+Adams-Normandie,40,0,8
+Agoura Hills,138,0,8
+Arleta,466,12885,8
+Arlington Heights,61,0,8
+Atwater Village,15241,1663,8
+Baldwin Hills/Crenshaw,317,0,8
+Beverly Crest,109,0,8
+Beverly Grove,8383,711,8
+Beverly Hills,30,0,8
+Beverlywood,8,0,8
+Boyle Heights,1395,0,8
+Brentwood,203,0,8
+Burbank,353,0,8
+Calabasas,51,0,8
+Canoga Park,63216,28723,8
+Central-Alameda,166,0,8
+Chatsworth,45748,32133,8
+Chatsworth Reservoir,410,1667,8
+Chinatown,350,599,8
+Cypress Park,6086,2040,8
+Downtown,1038,0,8
+Eagle Rock,23146,5899,8
+East Hollywood,42512,14621,8
+East Los Angeles,23,0,8
+Echo Park,11807,3376,8
+El Sereno,96,0,8
+Elysian Park,34,0,8
+Elysian Valley,1321,2545,8
+Encino,47304,30088,8
+Fairfax,10036,469,8
+Glassell Park,12248,4683,8
+Glendale,78,0,8
+Granada Hills,54223,41068,8
+Hancock Park,1030,297,8
+Hansen Dam,12,0,8
+Harvard Heights,216,0,8
+Highland Park,17481,9149,8
+Historic South-Central,82,0,8
+Hollywood Hills,8032,4648,8
+Hollywood Hills West,5158,1797,8
+Hollywood,68334,17039,8
+Huntington Park,2,0,8
+Hyde Park,1107,0,8
+Inglewood,65,0,8
+Koreatown,2605,0,8
+Lake Balboa,15426,13273,8
+Lake View Terrace,5332,6059,8
+Larchmont,3532,1548,8
+Leimert Park,85,0,8
+Lincoln Heights,13606,4158,8
+Lopez/Kagel Canyons,21,1817,8
+Los Feliz,42736,4680,8
+Manchester Square,101,0,8
+Mar Vista,72,0,8
+Maywood,10,0,8
+Mid-City,233,0,8
+Mid-Wilshire,177,0,8
+Mission Hills,23339,9787,8
+Montebello,60,0,8
+Montecito Heights,1846,2350,8
+Mount Washington,4610,2106,8
+North Hills,35671,34226,8
+North Hollywood,70702,32030,8
+Northridge,102682,40014,8
+Pacoima,49703,32788,8
+Panorama City,48254,36757,8
+Pasadena,54,0,8
+Pico-Union,491,0,8
+Porter Ranch,25471,21224,8
+Rancho Palos Verdes,856,0,8
+Reseda,34790,41909,8
+San Fernando,960,1130,8
+San Pedro,415,0,8
+Santa Clarita,2,0,8
+Sepulveda Basin,451,0,8
+Shadow Hills,5870,3689,8
+Sherman Oaks,55357,28280,8
+Silver Lake,11484,3060,8
+South Pasadena,43,0,8
+Studio City,38588,14779,8
+Sunland,7896,5183,8
+Sun Valley,51988,33089,8
+Sylmar,38104,37162,8
+Tarzana,42475,30090,8
+Toluca Lake,6134,2247,8
+Tujunga Canyons,18799,0,8
+Tujunga,14058,8906,8
+Unincorporated Santa Susana Mountains,31,0,8
+Universal City,205,0,8
+University Park,17,0,8
+Valley Glen,43918,34934,8
+Valley Village,10267,8176,8
+Van Nuys,139273,56355,8
+Venice,120,0,8
+Vermont Knolls,487,0,8
+Vermont-Slauson,272,0,8
+Vermont Square,112,0,8
+View Park-Windsor Hills,30,0,8
+West Adams,142,0,8
+Westchester,227,0,8
+West Hills,57040,34006,8
+West Hollywood,397,0,8
+Westlake,1707,489,8
+Westwood,23,0,8
+Wilmington,84,0,8
+Winnetka,24357,36118,8
+Woodland Hills,83855,38956,8
+Adams-Normandie,19,0,9
+Agoura Hills,173,0,9
+Arleta,428,13160,9
+Arlington Heights,57,0,9
+Atwater Village,14712,1626,9
+Baldwin Hills/Crenshaw,301,0,9
+Beverly Crest,105,0,9
+Beverly Grove,7165,864,9
+Beverly Hills,33,0,9
+Beverlywood,10,0,9
+Boyle Heights,1231,0,9
+Brentwood,233,0,9
+Burbank,402,0,9
+Calabasas,52,0,9
+Canoga Park,61942,29575,9
+Central-Alameda,83,0,9
+Chatsworth,46040,31090,9
+Chatsworth Reservoir,363,1507,9
+Chinatown,382,749,9
+Cypress Park,6017,1893,9
+Downtown,1263,0,9
+Eagle Rock,21157,5959,9
+East Hollywood,41931,14899,9
+East Los Angeles,36,0,9
+Echo Park,11725,3664,9
+El Sereno,89,0,9
+Elysian Park,66,0,9
+Elysian Valley,1585,2496,9
+Encino,6998,28671,9
+Fairfax,9486,593,9
+Glassell Park,12089,4747,9
+Glendale,72,0,9
+Granada Hills,50532,38658,9
+Hancock Park,972,361,9
+Hansen Dam,14,0,9
+Harvard Heights,282,0,9
+Highland Park,16834,8547,9
+Historic South-Central,105,0,9
+Hollywood Hills,7849,4893,9
+Hollywood Hills West,5279,1856,9
+Hollywood,67398,17642,9
+Huntington Park,3,0,9
+Hyde Park,1122,0,9
+Inglewood,53,0,9
+Koreatown,2589,0,9
+Lake Balboa,15473,13205,9
+Lake View Terrace,4837,5371,9
+Larchmont,3886,1634,9
+Leimert Park,101,0,9
+Lincoln Heights,13301,3937,9
+Lopez/Kagel Canyons,15,1969,9
+Los Feliz,41127,4752,9
+Manchester Square,78,0,9
+Mar Vista,38,0,9
+Maywood,11,0,9
+Mid-City,269,0,9
+Mid-Wilshire,150,0,9
+Mission Hills,23269,9360,9
+Montebello,38,0,9
+Montecito Heights,1822,2609,9
+Mount Washington,5752,2297,9
+North Hills,33897,33170,9
+North Hollywood,64812,29874,9
+Northridge,97922,39322,9
+Pacoima,47232,31266,9
+Panorama City,46956,35521,9
+Pasadena,52,0,9
+Pico-Union,499,0,9
+Porter Ranch,17578,19509,9
+Rancho Palos Verdes,796,0,9
+Reseda,33693,40936,9
+San Fernando,657,1298,9
+San Pedro,382,0,9
+Santa Clarita,7,0,9
+Sawtelle,32,0,9
+Sepulveda Basin,345,0,9
+Shadow Hills,5922,4086,9
+Sherman Oaks,53323,28063,9
+Silver Lake,11806,3354,9
+South Pasadena,34,0,9
+Studio City,39335,14774,9
+Sunland,7463,5259,9
+Sun Valley,51442,32545,9
+Sylmar,37092,34573,9
+Tarzana,42730,29677,9
+Toluca Lake,6215,2206,9
+Tujunga Canyons,13391,0,9
+Tujunga,13230,8392,9
+Unincorporated Santa Susana Mountains,31,0,9
+Universal City,827,0,9
+University Park,26,0,9
+Valley Glen,41582,33683,9
+Valley Village,10058,8247,9
+Van Nuys,103634,51876,9
+Venice,117,0,9
+Vermont Knolls,538,0,9
+Vermont-Slauson,271,0,9
+Vermont Square,87,0,9
+View Park-Windsor Hills,25,0,9
+West Adams,161,0,9
+Westchester,294,0,9
+West Hills,54860,33364,9
+West Hollywood,436,0,9
+Westlake,1232,494,9
+Westwood,13,0,9
+Wilmington,96,0,9
+Winnetka,23347,35251,9
+Woodland Hills,86621,39196,9
