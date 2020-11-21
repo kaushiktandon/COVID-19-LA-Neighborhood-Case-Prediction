@@ -1,6 +1,6 @@
 # COVID-19-LA-Neighborhood-Case-Prediction
 
-##### CSCI 499: AI for Sustainable Development Final Project
+CSCI 499: AI for Sustainable Development Final Project
 Jackie Dong, Katherine Sing, Kaushik Tandon
 
 # Abstract
